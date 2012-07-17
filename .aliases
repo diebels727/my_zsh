@@ -1,0 +1,3 @@
+alias workout="cd $WORK;rvm use $RVM_REPO$"
+alias checkout='git checkout'
+alias gitout='git reset --hard'
